@@ -1,0 +1,12 @@
+{
+  "engines": [],
+  "template": "",
+  "exclusions": [],
+  "timeouts": {
+    // Assuming default values for GHTimeouts
+  },
+  "maxFileSize": 1024,
+  "javaEngineGeneration": 1,
+  "jsEngineGeneration": 1,
+  "csharpEngineGeneration": 1
+}
